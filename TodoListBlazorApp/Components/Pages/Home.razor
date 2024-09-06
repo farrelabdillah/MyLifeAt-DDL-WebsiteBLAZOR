@@ -1,0 +1,103 @@
+﻿@page "/home"
+@using TodoListBlazorApp.Models
+@using TodoListBlazorApp.Services
+@inject TodoService TodoService
+@inject NavigationManager NavigationManager
+
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap" rel="stylesheet" />
+    <!-- MedievalSharp Font -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+    <link rel="stylesheet" href="css/styleshome.css" />
+</head>
+<body>
+    <div class="home-wrapper">
+        <div class="input-container">
+            <h1 id="welcome-message">
+                <span class="welcome-text">Welcome,</span>
+                <span class="username-text">@username</span> 
+            </h1>
+            <h2>Enter your list</h2>
+
+            <!-- Input for Todo Title -->
+            <input type="text" @bind="newTodoTitle" placeholder="Title" required />
+            <!-- Input for Todo Description -->
+            <textarea @bind="newTodoDescription" placeholder="Description" rows="3" required></textarea>
+
+            <button @onclick="AddTodo">Add ToDo</button>
+            <button id="logout-button">Logout</button>
+
+        </div>
+
+        <div class="todo-list-container">
+            <ul>
+                @foreach (var todo in todos)
+                {
+                    <li class="todo-item">
+                        <h3>@todo.Note</h3>
+                        <p>@todo.TodoDetails.FirstOrDefault()?.DetailNote</p>
+                        <p>@todo.TodayDate.ToString("yyyy-MM-dd HH:mm")</p>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+
+    @code {
+        private List<TodoModel> todos = new();
+        private string newTodoTitle = string.Empty;
+        private string newTodoDescription = string.Empty;
+        private string username = "admin"; // Replace this with actual username logic
+
+        protected override async Task OnInitializedAsync()
+        {
+            todos = await TodoService.GetTodosAsync(1, 100);
+        }
+
+        private async Task AddTodo()
+        {
+            if (!string.IsNullOrEmpty(newTodoTitle) && !string.IsNullOrEmpty(newTodoDescription))
+            {
+                var newTodo = new TodoModel
+                {
+                    Note = newTodoTitle,
+                    TodayDate = DateTime.Now,
+                    TodoDetails = new List<TodoDetailModel>
+        {
+        new TodoDetailModel
+        {
+        DetailNote = newTodoDescription
+        }
+        }
+                };
+
+                bool isAdded = await TodoService.AddTodoAsync(newTodo);
+                if (isAdded)
+                {
+                    todos.Add(newTodo);
+                    newTodoTitle = string.Empty;
+                    newTodoDescription = string.Empty;
+                }
+                else
+                {
+                    Console.WriteLine("Error: Unable to add todo");
+                }
+            }
+        }
+    }
+    <script>
+        // Add event listener to the logout button
+        document.getElementById("logout-button").addEventListener("click", function () {
+            // Clear the username and password from localStorage
+            localStorage.removeItem("username");
+            localStorage.removeItem("password");
+
+            // Redirect to login page
+            window.location.href = "/";
+        });
+    </script>
+</body>
+</html>

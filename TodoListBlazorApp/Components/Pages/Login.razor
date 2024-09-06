@@ -1,0 +1,25 @@
+﻿@page "/login"
+
+<link href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap" rel="stylesheet" />
+<link href="css/styleslogin.css" rel="stylesheet" />
+
+<div class="login-container">
+    <h2 style="font-family: 'MedievalSharp', serif;">Enter your credentials</h2>
+    <input type="text" placeholder="Username" id="username" style="font-family: 'MedievalSharp', serif;" />
+    <input type="password" placeholder="Password" id="password" style="font-family: 'MedievalSharp', serif;" />
+    <button onclick="handleLogin()" style="font-family: 'MedievalSharp', serif;">Login</button>
+</div>
+
+<script>
+    function handleLogin() {
+        var username = document.getElementById("username").value;
+        var password = document.getElementById("password").value;
+
+        // Simple validation: If username is 'admin' and password is 'admin', redirect to home
+        if (username === "admin" && password === "admin") {
+            window.location.href = "/home";
+        } else {
+            alert("Invalid credentials. Please try again.");
+        }
+    }
+</script>

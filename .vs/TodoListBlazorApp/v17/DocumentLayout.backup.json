@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|c:\\users\\farre\\source\\repos\\todolistblazorapp\\todolistblazorapp\\wwwroot\\css\\styleshome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|solutionrelative:todolistblazorapp\\wwwroot\\css\\styleshome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|c:\\users\\farre\\source\\repos\\todolistblazorapp\\todolistblazorapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|solutionrelative:todolistblazorapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|c:\\users\\farre\\source\\repos\\todolistblazorapp\\todolistblazorapp\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|solutionrelative:todolistblazorapp\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|c:\\users\\farre\\source\\repos\\todolistblazorapp\\todolistblazorapp\\wwwroot\\css\\styleslogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|solutionrelative:todolistblazorapp\\wwwroot\\css\\styleslogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|c:\\users\\farre\\source\\repos\\todolistblazorapp\\todolistblazorapp\\wwwroot\\css\\splashstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|solutionrelative:todolistblazorapp\\wwwroot\\css\\splashstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|c:\\users\\farre\\source\\repos\\todolistblazorapp\\todolistblazorapp\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|solutionrelative:todolistblazorapp\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|c:\\users\\farre\\source\\repos\\todolistblazorapp\\todolistblazorapp\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|solutionrelative:todolistblazorapp\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|c:\\users\\farre\\source\\repos\\todolistblazorapp\\todolistblazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|solutionrelative:todolistblazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|c:\\users\\farre\\source\\repos\\todolistblazorapp\\todolistblazorapp\\models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|solutionrelative:todolistblazorapp\\models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|c:\\users\\farre\\source\\repos\\todolistblazorapp\\todolistblazorapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6139BDCE-0716-41BB-8C66-780D07C8D86B}|TodoListBlazorApp\\TodoListBlazorApp.csproj|solutionrelative:todolistblazorapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "TodoListBlazorApp\\Services\\TodoService.cs",
+              "ToolTip": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\Services\\TodoService.cs",
+              "RelativeToolTip": "TodoListBlazorApp\\Services\\TodoService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:38:59.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoModel.cs",
+              "DocumentMoniker": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\Models\\TodoModel.cs",
+              "RelativeDocumentMoniker": "TodoListBlazorApp\\Models\\TodoModel.cs",
+              "ToolTip": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\Models\\TodoModel.cs",
+              "RelativeToolTip": "TodoListBlazorApp\\Models\\TodoModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:38:52.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoListBlazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\Program.cs",
+              "RelativeToolTip": "TodoListBlazorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:36:45.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\Components\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "TodoListBlazorApp\\Components\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\Components\\Pages\\Index.razor",
+              "RelativeToolTip": "TodoListBlazorApp\\Components\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T08:31:47.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "splashstyle.css",
+              "DocumentMoniker": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\wwwroot\\css\\splashstyle.css",
+              "RelativeDocumentMoniker": "TodoListBlazorApp\\wwwroot\\css\\splashstyle.css",
+              "ToolTip": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\wwwroot\\css\\splashstyle.css",
+              "RelativeToolTip": "TodoListBlazorApp\\wwwroot\\css\\splashstyle.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T08:31:14.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "styleshome.css",
+              "DocumentMoniker": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\wwwroot\\css\\styleshome.css",
+              "RelativeDocumentMoniker": "TodoListBlazorApp\\wwwroot\\css\\styleshome.css",
+              "ToolTip": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\wwwroot\\css\\styleshome.css",
+              "RelativeToolTip": "TodoListBlazorApp\\wwwroot\\css\\styleshome.css",
+              "ViewState": "AgIAAFQAAAAAAAAAAADgv2cAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T07:02:35.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "TodoListBlazorApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "TodoListBlazorApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T07:01:44.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "TodoListBlazorApp\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "TodoListBlazorApp\\Components\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T06:09:52.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "styleslogin.css",
+              "DocumentMoniker": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\wwwroot\\css\\styleslogin.css",
+              "RelativeDocumentMoniker": "TodoListBlazorApp\\wwwroot\\css\\styleslogin.css",
+              "ToolTip": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\wwwroot\\css\\styleslogin.css",
+              "RelativeToolTip": "TodoListBlazorApp\\wwwroot\\css\\styleslogin.css",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAEwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T06:12:25.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TodoListBlazorApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\appsettings.Development.json",
+              "RelativeToolTip": "TodoListBlazorApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T10:46:10.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

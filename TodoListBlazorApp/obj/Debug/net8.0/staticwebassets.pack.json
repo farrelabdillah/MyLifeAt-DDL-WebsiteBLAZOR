@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TodoListBlazorApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TodoListBlazorApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\wwwroot\\css\\splashstyle.css",
+      "PackagePath": "staticwebassets\\css\\splashstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\wwwroot\\css\\styleshome.css",
+      "PackagePath": "staticwebassets\\css\\styleshome.css"
+    },
+    {
+      "Id": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\wwwroot\\css\\styleslogin.css",
+      "PackagePath": "staticwebassets\\css\\styleslogin.css"
+    },
+    {
+      "Id": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\wwwroot\\images\\splashscreen.jpg",
+      "PackagePath": "staticwebassets\\images\\splashscreen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\farre\\source\\repos\\TodoListBlazorApp\\TodoListBlazorApp\\wwwroot\\images\\tavernbg.png",
+      "PackagePath": "staticwebassets\\images\\tavernbg.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TodoListBlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TodoListBlazorApp.props",
+      "PackagePath": "build\\TodoListBlazorApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TodoListBlazorApp.props",
+      "PackagePath": "buildMultiTargeting\\TodoListBlazorApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TodoListBlazorApp.props",
+      "PackagePath": "buildTransitive\\TodoListBlazorApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
